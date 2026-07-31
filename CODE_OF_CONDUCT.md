@@ -43,4 +43,6 @@ Consequences scale with the violation: a warning, then removal of the offending 
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
+`AXIS//OPEN · A0`
+
 </div>
