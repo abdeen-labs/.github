@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
 
@@ -14,14 +14,14 @@
 
 # Code of Conduct
 
-Participation in Abdeen Labs spaces — issues, pull requests, discussions, review — has one defined task: improve the software. Conduct is judged against that task.
+Abdeen Labs spaces should be useful, respectful, and safe for everyone taking part.
 
 ## Rules
 
-1. Critique work, not people. "This output is wrong, here is the evidence" is the house style. Attacks on a person are off-task and unwelcome.
+1. Critique work, not people. Explain the issue, its impact, and what would improve it.
 2. No harassment. No slurs, discrimination, sexualized language, intimidation, doxxing, or sustained hostility — regardless of target, regardless of provocation.
-3. Assume competence, state evidence. Disagreement is resolved with reproduction steps, not volume.
-4. Respect the review. Reviewers may decline work; contributors may disagree once, with reasons. Relitigating a settled decision across threads is off-task.
+3. Assume competence and good faith. Use examples and reproduction steps when facts are disputed.
+4. Respect review decisions. Contributors may ask for the reasoning or disagree constructively, but should not reopen the same argument across unrelated threads.
 
 ## Scope
 
@@ -43,6 +43,6 @@ Consequences scale with the violation: a warning, then removal of the offending 
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>

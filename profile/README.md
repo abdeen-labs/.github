@@ -6,33 +6,33 @@
   <img src="assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-**Defined tasks. Verified output.**
+**Private software. Clear boundaries.**
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
 
 ---
 
-Abdeen Labs develops bounded software for Apple platforms and the browser. Each tool is assigned one defined task, runs without an account, and exposes evidence of its operation. Storage, network egress, and telemetry boundaries are stated on every product page.
+Abdeen Labs makes private software. Its products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
 
-## Surfaces
+## Sites
 
-| Surface                          | Assignment                      | Status        |
-| -------------------------------- | ------------------------------- | ------------- |
-| [abdeen.dev](https://abdeen.dev) | Product pages and browser tools | `OPERATIONAL` |
-| [abdeen.ai](https://abdeen.ai)   | Reserved                        | `PENDING`     |
+| Site                             | What you’ll find              |
+| -------------------------------- | ----------------------------- |
+| [abdeen.dev](https://abdeen.dev) | The Abdeen Labs studio site   |
+| [abdeen.ai](https://abdeen.ai)   | Coming soon                   |
 
-## Operating rules
+## Principles
 
-1. One tool, one task. A tool that needs a second mission becomes a second tool.
-2. No accounts. Operation does not depend on identity.
-3. Boundaries are stated. Each product page declares storage location, network egress, and telemetry.
-4. Output is verifiable. The tool exposes evidence of what it did.
+1. No Abdeen Labs account is required.
+2. Products collect as little data as possible.
+3. Each product explains what stays on the device and when it needs the network.
+4. Source and licenses are public when a product is released.
 
 ## Source
 
-Repositories in this organization are private while release review is pending. A repository opens after its content is reviewed and re-marked `AXIS//OPEN · A0`.
+Repositories may remain private while they are being prepared. They become public after the source, documentation, privacy details, history, and license have been reviewed.
 
 <div align="center">
 
@@ -41,5 +41,7 @@ Repositories in this organization are private while release review is pending. A
   <source media="(prefers-color-scheme: light)" srcset="assets/seal-roundel-carbon.svg">
   <img src="assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
+
+`AXIS//OPEN`
 
 </div>

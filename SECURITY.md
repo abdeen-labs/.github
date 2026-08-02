@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # Security Policy
 
-A tool operating outside its stated boundary — storage, network egress, or telemetry — is a security defect, not a preference. Report it as one.
+Unexpected storage, network access, analytics, or account behavior may be a security issue. Please report it privately.
 
 ## Reporting
 
@@ -23,7 +23,7 @@ Report privately. Do not open a public issue.
 1. **GitHub** — *Report a vulnerability* under the Security tab of the affected repository.
 2. **Email** — [security@abdeen.dev](mailto:security@abdeen.dev), for reports that span surfaces or concern a repository you cannot see.
 
-A useful report states what you observed, where (tool, version, URL), and how to reproduce it. Evidence shortens verification: requests, logs, payloads.
+A useful report explains what you observed, where you saw it, and how to reproduce it. Include relevant requests, logs, or payloads when available.
 
 ## Response
 
@@ -49,6 +49,6 @@ Good-faith research conducted within this policy is welcome and will not be met 
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>

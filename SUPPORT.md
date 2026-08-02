@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
 
@@ -14,20 +14,20 @@
 
 # Support
 
-Abdeen Labs tools run without accounts. There is no account to recover, no subscription to manage, and no data to request — each product page states where the tool stores data, what it sends, and what it records.
+Abdeen Labs software works without an Abdeen Labs account. Each product page explains what stays on your device, when the product uses the network, and what Abdeen Labs can access.
 
 ## Channels
 
 | Need                                               | Channel                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| How a tool works and what its boundaries are       | The tool's product page                                                                            |
+| How a product works and handles data               | The product page                                                                                   |
 | A defect in a tool with an open repository         | An issue on that repository                                                                        |
 | A defect in a tool whose repository has not opened | An issue on [abdeen-labs/.github](https://github.com/abdeen-labs/.github/issues)                   |
 | A security vulnerability                           | [SECURITY.md](https://github.com/abdeen-labs/.github/blob/main/SECURITY.md) — never a public issue |
 
 ## Reporting a defect
 
-State the task you gave the tool, the output it produced, and the output you expected. Attach the evidence the tool exposes — that evidence exists for exactly this purpose.
+Explain what you did, what happened, and what you expected. Include screenshots, recordings, logs, or sample files when they help reproduce the problem.
 
 ---
 
@@ -39,6 +39,6 @@ State the task you gave the tool, the output it produced, and the output you exp
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>

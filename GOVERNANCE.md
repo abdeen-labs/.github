@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # Governance
 
-Abdeen Labs is maintainer-led. Decisions follow the same rules as the software: one owner per decision, stated reasoning, a verifiable record.
+Abdeen Labs is maintainer-led. Maintainers make final decisions and explain them in review.
 
 ## Roles
 
@@ -26,12 +26,12 @@ Abdeen Labs is maintainer-led. Decisions follow the same rules as the software: 
 ## Decisions
 
 - Product direction, tool scope, and release timing are maintainer decisions.
-- Changes to code and documents are proposed as pull requests and decided in review. The record of the decision is the thread that made it.
+- Changes to code and documents are proposed as pull requests and decided in review.
 - When maintainers and contributors disagree, the maintainer's call is final and the reasoning is stated in the thread.
 
 ## Release review
 
-`AXIS//OPEN · A0` is the organization's release marking. A repository stays private until its content passes release review — a check that the tool's task is defined, its boundaries are stated, and its output is verifiable. The repository opens when it is marked.
+A repository may stay private while it is being prepared. Before it becomes public, maintainers review the source, documentation, privacy details, commit history, and license.
 
 ## Amendments
 
@@ -47,6 +47,6 @@ These documents change the way everything else does: by pull request, decided in
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN · A0`
+`AXIS//OPEN`
 
 </div>
