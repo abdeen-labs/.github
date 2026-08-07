@@ -8,13 +8,13 @@
 
 **Private software. Clear boundaries.**
 
-`AXIS//OPEN`
+`NIGHTFIELD//OPEN`
 
 </div>
 
 ---
 
-Abdeen Labs makes private software. Its products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
+Abdeen Labs is an independent studio making private software. Its products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
 
 ## Sites
 
@@ -42,6 +42,6 @@ Repositories may remain private while they are being prepared. They become publi
   <img src="assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN`
+`NIGHTFIELD//OPEN`
 
 </div>

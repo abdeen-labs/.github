@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`AXIS//OPEN`
+`NIGHTFIELD//OPEN`
 
 </div>
 
@@ -39,6 +39,6 @@ Explain what you did, what happened, and what you expected. Include screenshots,
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`AXIS//OPEN`
+`NIGHTFIELD//OPEN`
 
 </div>
