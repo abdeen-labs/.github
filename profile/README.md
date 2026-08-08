@@ -14,7 +14,7 @@
 
 ---
 
-Abdeen Labs is an independent studio making private software. Its products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
+Abdeen Labs is an independent studio making private software. Our products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
 
 ## Sites
 
