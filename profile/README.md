@@ -8,7 +8,7 @@
 
 **Private software. Clear boundaries.**
 
-`NIGHTFIELD//OPEN`
+`4BD33N//OPEN`
 
 </div>
 
@@ -42,6 +42,6 @@ Repositories may remain private while they are being prepared. They become publi
   <img src="assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
 
-`NIGHTFIELD//OPEN`
+`4BD33N//OPEN`
 
 </div>
