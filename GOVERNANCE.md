@@ -14,7 +14,7 @@
 
 # Governance
 
-Abdeen Labs is maintainer-led. Maintainers make final decisions and explain them in review.
+Abdeen Labs is the open-source and experimental division of Abdeen Industries. The `abdeen-labs` organization remains maintainer-led. Maintainers make final decisions and explain them in review.
 
 ## Roles
 

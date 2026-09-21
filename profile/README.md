@@ -14,21 +14,24 @@
 
 ---
 
-Abdeen Labs is an independent studio making private software. Our products work without accounts, collect as little as possible, and make it clear what stays on your device and what leaves it. The source is public.
+Abdeen Labs is the open-source and experimental division of Abdeen Industries. We make private software that works without accounts, collects as little as possible, and clearly shows what stays on your device and what leaves it. Our source is public.
 
 ## Sites
 
 | Site                             | What you’ll find              |
 | -------------------------------- | ----------------------------- |
-| [abdeen.dev](https://abdeen.dev) | The Abdeen Labs studio site   |
-| [abdeen.ai](https://abdeen.ai)   | Coming soon                   |
+| [abdeen.dev](https://abdeen.dev) | Open-source software and experiments   |
+| [abdeen.ai](https://abdeen.ai) | Abdeen Industries |
+| [abdeen.industries/brand](https://abdeen.industries/brand) | Brand guidelines and assets |
 
-## Principles
+## Labs principles
 
 1. No Abdeen Labs account is required.
 2. Products collect as little data as possible.
 3. Each product explains what stays on the device and when it needs the network.
 4. Source and licenses are public when a product is released.
+
+Industries products state their own licensing, account requirements and data practices.
 
 ## Source
 
