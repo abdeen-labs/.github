@@ -35,7 +35,7 @@ A useful report explains what you observed, where you saw it, and how to reprodu
 
 ## Scope
 
-Every repository in this organization and the surfaces listed on the [organization profile](https://github.com/abdeen-labs): abdeen.dev, abdeen.ai.
+Every repository in this organization and the surfaces listed on the [organization profile](https://github.com/abdeen-labs): abdeen.dev, abdeen.industries.
 
 Good-faith research conducted within this policy is welcome and will not be met with legal action.
 

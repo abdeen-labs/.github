@@ -21,8 +21,7 @@ Abdeen Labs is the open-source and experimental division of Abdeen Industries. W
 | Site                             | What you’ll find              |
 | -------------------------------- | ----------------------------- |
 | [abdeen.dev](https://abdeen.dev) | Open-source software and experiments   |
-| [abdeen.ai](https://abdeen.ai) | Abdeen Industries |
-| [abdeen.industries/brand](https://abdeen.industries/brand) | Brand guidelines and assets |
+| [abdeen.industries](https://abdeen.industries) | Abdeen Industries |
 
 ## Labs principles
 
