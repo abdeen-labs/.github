@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/lockup-dark.svg" alt="Abdeen Labs" width="205" height="40">
 </picture>
 
-`ABD33N//OPEN`
-
 </div>
 
 ---
@@ -46,7 +44,5 @@ These documents change the way everything else does: by pull request, decided in
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-carbon.svg">
   <img src="https://raw.githubusercontent.com/abdeen-labs/.github/main/profile/assets/seal-roundel-chalk.svg" alt="Abdeen Labs roundel seal" width="72" height="72">
 </picture>
-
-`ABD33N//OPEN`
 
 </div>
