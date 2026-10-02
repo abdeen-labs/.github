@@ -12,7 +12,7 @@
 
 ---
 
-Abdeen Labs is the open-source and experimental division of Abdeen Industries.
+Abdeen Labs is the open-source and experimental division of [Abdeen Industries](https://github.com/abdeen-industries).
 
 ## Sites
 
